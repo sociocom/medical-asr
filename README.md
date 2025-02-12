@@ -45,7 +45,7 @@ This project is a Medical Automatic Speech Recognition (ASR) system.
     python app.py
     ```
 
-3. The backend server should now be running on `http://localhost:5000`.
+3. The backend server should now be running on `http://localhost:5010`.
 
 #### Running the Frontend
 

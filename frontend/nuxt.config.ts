@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     sockets: [
       {
         name: 'main',
-        url: 'http://localhost:5000',
+        url: 'http://localhost:5010',
         default: true,
         vuex: {
           mutations: [],
